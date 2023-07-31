@@ -1,4 +1,5 @@
 Soal Test 2:
+
 Sebuah startup membuat suatu website seperti ERP untuk
 memudahkan seorang pengusaha dalam mencatat setiap barang
 yang keluar masuk dan mencatat setiap keuntungan yang
@@ -28,13 +29,13 @@ sebagai berikut :
 Soal:
 
 1. Buatlah website dengan ketentuan sebagai berikut :
-1. Menggunakan React JS
-1. Menggunakan SASS (optional)
-1. Responsive
-1. Design Web berdasarkan tampilan diatas
+   1. Menggunakan React JS
+   2. Menggunakan SASS (optional)
+   3. Responsive
+   4. Design Web berdasarkan tampilan diatas
 
-1. Tampilan depan website diatas dapat ditiru dan buatlah
-   websiteagar dapat di scroll kebawah dengan menambahkan
+2. Tampilan depan website diatas dapat ditiru dan buatlah
+   website agar dapat di scroll kebawah dengan menambahkan
    beberapa komponen berikut ini :
    ● ABOUT
    ● PRICING (Harga boleh dicantumkan sesuai keinginan anda)
@@ -50,5 +51,6 @@ Note:
 design diatas
 ● Text : silahkan menggunakan kalimat sendiri
 ● Animasi : Optional
-● Framework Tambahan : Optional ● Source :
-○ Ilustrator : https://undraw.co/search
+● Framework Tambahan : Optional 
+● Source :
+   ○ Ilustrator : https://undraw.co/search
